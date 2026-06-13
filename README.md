@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=diplfranzhoepfinger&show_icons=true)
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=diplfranzhoepfinger&show_icons=true&include_all_commits=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diplfranzhoepfinger&count_private=true&show_icons=true&layout=compact)
 
 <!--
